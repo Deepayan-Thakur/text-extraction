@@ -6,3 +6,5 @@ This is a repo for creating a basic application for text-extraction using Opencv
 <br>
 
 I hope, you will enjoy the same. 😁
+
+Author - Deepayan Thakur
